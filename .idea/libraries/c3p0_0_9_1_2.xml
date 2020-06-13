@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="c3p0-0.9.1.2">
+    <CLASSES>
+      <root url="jar://E:/package/c3p0-0.9.1.2.jar!/" />
+      <root url="jar://E:/package/mysql-connector-java-5.1.32.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
